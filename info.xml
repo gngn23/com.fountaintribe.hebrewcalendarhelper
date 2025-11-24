@@ -37,6 +37,6 @@
   </classloader>
   <upgrader>CiviMix\Schema\Hebrewcalendarhelper\AutomaticUpgrader</upgrader>
   <requires>
-    <ext>legacycustomsearch</ext>
+    <ext>legacycustomsearches</ext>
   </requires>
 </extension>
